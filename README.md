@@ -1,2 +1,2 @@
 # Metodos-Numericos-codigos
-Codigos realizacdos en lenguaje c++
+Codigos realizados en lenguaje c++
